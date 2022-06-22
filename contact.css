@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;400&display=swap');
+
+body {
+   font-family:'Raleway', sans-serif;
+   height: 100vh;
+   background: #333 url('images/pexels-jan-kroon-1038935.jpg') no-repeat center center / cover;
+   color: rgb(229, 227, 227);
+   overflow:hidden;
+}
+
+
+.container {
+    margin-top: 10%;
+    padding: 40px 30px 30px 30px;
+    background-color: rgba(255, 255, 255, 0.495);
+}
+
+.nav-item a {
+    color:rgb(255, 255, 255)
+
+} 
+
+h1{
+    color: rgb(64, 60, 60);
+    margin-bottom:5%;
+}
+
+p {
+
+    color: rgb(64, 60, 60);
+
+}
